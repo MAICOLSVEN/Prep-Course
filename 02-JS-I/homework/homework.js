@@ -67,6 +67,7 @@ function sonIguales(x, y) {
   }
   else{
   return false ;
+  
 }
 }
 function tienenMismaLongitud(str1, str2) {
